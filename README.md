@@ -44,6 +44,7 @@ MCU ATTINY13/85/4X PINs :
 To pins #4 and pin#8 of MCU optionaly attach capacitors 100nF/10uF
 
 
+
 Analogue temperature sensor LM35 / TMP36 pins :
 
 VSS - to "+" of 2xAA battery pack
@@ -51,6 +52,7 @@ VSS - to "+" of 2xAA battery pack
 Vout - to pin #2 of ATTINY
 
 GND - to "-" of 2xAA battery pack
+
 
 
 
