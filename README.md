@@ -26,29 +26,50 @@ How to connect :
 MCU ATTINY13/85/4X PINs :
 
 1 (ADC0) PB5 - Not Connected
+
 2 (ADC3) PB3 - to Vout of sensor LM35 / TMP36 
+
 3 PB4 - to CLK pin of  Nokia 5110 LCD
+
 4 GND - to "-" of 2x AA battery pack
+
 5 PB0 - to RST/RESET of Nokia 5110 LCD
+
 6 PB1 - to DC pin of Nokia 5110 LCD
+
 7 PB2 - to DIN / DATA IN pin of Nokia 5110 LCD
+
 8 VCC - to "+" of 2x AA battery pack
+
 To pins #4 and pin#8 of MCU optionaly attach capacitors 100nF/10uF
 
 
 Analogue temperature sensor LM35 / TMP36 pins :
+
 VSS - to "+" of 2xAA battery pack
+
 Vout - to pin #2 of ATTINY
+
 GND - to "-" of 2xAA battery pack
 
+
+
 LCD Nokia 5110 pins :
+
 CS - to "-" of 2xAA battery pack
+
 BL - to "-" of 2xAA battery pack
+
 DC - to pin #6 of attiny 
+
 RESET / RST- to pin #5 of attiny
+
 DIN/DATA IN - to pin #7 of attiny
+
 CLK - to pin #3 of attiny
+
 VCC - to "+" of 2xAA battery pack
+
 GND - to "-" of 2xAA battery pack
 
  
