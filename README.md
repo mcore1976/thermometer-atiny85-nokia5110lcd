@@ -2,6 +2,8 @@ Digital thermometer with  ATTINY85/4X and Nokia 5110 LCD module
 with low power consumption on 2xAA batteries
 (C) Adam Loboda 2018
 
+to see how it works - look here https://www.youtube.com/watch?v=r6nF1iJ2r-M
+
 Bill of Materials :
 1. ATTINY85 (or ATTINY45, the code is less than  2048 byte long). 
 2. Analogue themperature sensor LM36/TMP36 (temp range is -50 - 100st C degrees) or LM35 (range is 0-100st C)
