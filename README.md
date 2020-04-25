@@ -22,6 +22,8 @@ Features :
 LCD Nokia 5110/3110 code borrowed from  : https://blog.thegaragelab.com/nokia-5110-lcd-displays-on-the-attiny/
 TMP36/LM35 code borrowed from : http://blog.podkalicki.com/100-projects-on-attiny13/
 
+Link to video how to program the chip : https://www.youtube.com/watch?v=7klgyNzZ2TI
+
 
 How to connect :
 
